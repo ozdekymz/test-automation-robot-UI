@@ -1,2 +1,2 @@
 # test-automation-UI-robot
-It contains all robotframework projects with Selenium Library and Python.
+It contains UI robotframework projects with Selenium Library and Python.
